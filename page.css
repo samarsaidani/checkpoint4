@@ -1,0 +1,307 @@
+
+body{
+    margin: 0;
+}
+header{
+  
+    
+    height:100px;
+    text-decoration: none;  
+      color: #747477;
+    
+
+    
+}
+.titre h5{
+    color:#00b39b ;
+
+}
+
+
+
+.navigation h1{ 
+    
+    color:#00b39b ;
+    display: flex;
+    
+  
+    
+    
+}
+.navigation{
+    
+
+   display: flex;
+   align-items: center;
+justify-content: space-around;
+width: 100%;
+background-color: white;
+}
+
+   
+   .titre1{
+    display: flex;
+    justify-content: flex-start;
+
+   }
+  
+
+.menu{
+   
+    display: flex;
+  
+   width: 250px;
+   justify-content: space-between;
+   
+
+}
+.menu a {
+    color: #747477;
+}
+
+a:hover {
+color: #00b39b;}
+
+.titre h1{
+    color:#00b39b;
+   
+
+}
+.logo{
+   
+    display: flex;
+    justify-content: center;
+    
+    
+} 
+.titre{
+   
+    display: flex;
+    justify-content: center;
+    color: #00b39b;
+    font-size: 3.29rem;
+    font-family:  Arial, sans-serif;
+    font-weight: 300;
+    
+}
+
+
+.paragraphe{
+
+    display: flex;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #747477;
+    font-weight: 500;
+  
+
+}
+.person{
+   
+    display: flex;
+    justify-content: center;
+
+ 
+    
+}
+.patient{ 
+    border: 1px solid;
+    background-color: #00b39b;
+    width: 300px;
+    height: 290px;
+    color: white;
+   margin-right: 15px;
+    border-radius:9px;
+   
+}
+.option1{
+    border: 0px;
+    background-color: #00b39b ;
+    color: white;
+    
+}
+.doctors{ 
+    border: 1px solid;
+    background-color: blue;
+    width: 300px;
+    height: 290px;
+    color: white;
+    margin-right: 15px;
+    border-radius:9px;
+    
+}
+.option2{
+    border: 0px;
+    background-color: blue;
+    color: white;
+}
+option{
+    background-color: white;
+    color: black;
+}
+.clinics{ 
+    border: 1px solid;
+    background-color: #536361;
+    width: 300px;
+    height: 290px;
+    color: white;
+    margin-right: 15px;
+    border-radius:9px;
+    
+}
+.option3{
+    border: 0px;
+    background-color: #536361 ;
+    color: white;
+}
+.option4{
+    border: 0px;
+    background-color: #536361 ;
+    color: white;
+}
+.titre2{
+  
+    width: 30%;
+    color: #00b39b;
+}
+.grouplink{
+    display: flex;
+    align-items: center;
+   
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+.container{
+  
+   
+    display: flex;
+ justify-content: space-around;
+    height: 600px ;
+    background-color: #90dbd1;
+   
+}
+.box{
+    border: 1px solid;
+    width: 220px;
+    height: 200px;
+    margin-top: 50px;
+    background-color: white;
+   
+
+}
+.group{
+    
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.group{
+    
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+
+}
+.parent1{
+    
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 50px;
+   
+}
+.parent2{
+    
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+p{
+    font-size: 80%;
+}
+.box h3{
+    color: #00b39b;
+}
+.box p{
+    color: #747477;
+}
+.titre3 h1{
+    color: #00b39b;
+    font-size: 25PX;
+    margin-top: 100px;
+
+
+}
+.titre3 {
+    color: #747477;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+.post{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px 200px 100px 200px;
+    justify-content: space-between;
+    position: relative;
+    
+}
+.card-body{
+   
+    display: flex;
+    justify-content: space-between;
+}
+.card-body h6{
+    color: #747477;
+}
+
+.card:hover{
+    box-shadow: rgb(99,99, 0.2) 0px 2px 8px 0px;
+}
+h3{
+    font-weight: 300;
+    font-family: Work Sans, Arial, sans-serif;
+}
+.grouplink a {
+    color: #747477;
+    text-decoration: none;
+}
+
+.button{
+    background-color: #3d83df;
+    color: white;
+    border-color: transparent;
+    border-radius: 5Px;
+}
+
+.pied p{
+   
+    height: 100px;
+    font-size: 12Px;
+    }
+.pied{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #747477;
+    padding: 20px 0px 10px 0px;
+    text-align: center;
+}
+
+
